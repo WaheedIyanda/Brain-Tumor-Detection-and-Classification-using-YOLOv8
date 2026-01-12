@@ -56,7 +56,6 @@ Image counts and class distribution analyzed. Sample images visualized with boun
 - **Epochs:** 50  
 - **Image Size:** 640 × 640  
 - **Batch Size:** 16  
-- **Device:** GPU (`device=0`)  
 
 ### **4. Model Evaluation and Testing**
 Model evaluated on the validation set and tested on unseen data. Detection results visualized using `model.predict()`.
@@ -77,7 +76,7 @@ Model evaluated on the validation set and tested on unseen data. Detection resul
 
 ## **Getting Started**
 1. Clone the repository  
-2. Use a GPU environment (Google Colab, Kaggle, or local CUDA setup)  
+2. Use a GPU environment (Google Colab )  
 3. Install dependencies:
    ```bash
    pip install ultralytics
@@ -95,9 +94,3 @@ Model evaluated on the validation set and tested on unseen data. Detection resul
 - PyYAML  
 
 ---
-
-## **Future Work**
-- Experiment with larger YOLOv8 models (`yolov8s`, `yolov8m`)  
-- Apply data augmentation techniques  
-- Explore advanced post-processing methods  
-- Integrate Grad-CAM for model interpretability  
