@@ -72,25 +72,4 @@ Model evaluated on the validation set and tested on unseen data. Detection resul
 - **Meningioma:** 0.836  
 - **Pituitary:** 0.753  
 
----
 
-## **Getting Started**
-1. Clone the repository  
-2. Use a GPU environment (Google Colab )  
-3. Install dependencies:
-   ```bash
-   pip install ultralytics
-   ```
-4. Download the dataset and place it in the specified path  
-5. Run the notebook cells sequentially  
-
----
-
-## **Dependencies**
-- ultralytics  
-- pandas  
-- matplotlib  
-- opencv-python (cv2)  
-- PyYAML  
-
----
