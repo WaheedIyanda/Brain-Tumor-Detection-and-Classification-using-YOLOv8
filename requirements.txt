@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+ultralytics
+opencv-python
+pillow
+python-multipart
+jinja2
+gradio
+pillow
