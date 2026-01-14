@@ -3,6 +3,8 @@
 This project aims to develop a robust deep learning model for the detection and classification of brain tumors from MRI images. Using the YOLOv8 object detection framework, the model identifies and classifies three brain tumor types: **Glioma**, **Meningioma**, and **Pituitary tumors**.
 
 ---
+web app :  https://huggingface.co/spaces/WaheedIyanda/Brain_tumour_detector_and_classifier
+---
 
 ## **Dataset**
 **Dataset Name:** Brain Tumor MRI Dataset  
